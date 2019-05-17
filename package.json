@@ -1,0 +1,19 @@
+{
+  "name": "tuto-video",
+  "version": "1.0.0",
+  "description": "construction d'un site web avec le framework Bulma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.7.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
